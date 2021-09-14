@@ -11,3 +11,16 @@ C:\Users\andre\OneDrive\Área de Trabalho\Teste Sisand\Teste.Auth\obj\Debug\netc
 C:\Users\andre\OneDrive\Área de Trabalho\Teste Sisand\Teste.Auth\obj\Debug\netcoreapp3.1\Teste.Auth.csproj.CopyComplete
 C:\Users\andre\OneDrive\Área de Trabalho\Teste Sisand\Teste.Auth\obj\Debug\netcoreapp3.1\Teste.Auth.dll
 C:\Users\andre\OneDrive\Área de Trabalho\Teste Sisand\Teste.Auth\obj\Debug\netcoreapp3.1\Teste.Auth.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\bin\Debug\netcoreapp3.1\Teste.Auth.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\bin\Debug\netcoreapp3.1\Teste.Auth.dll
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\bin\Debug\netcoreapp3.1\Teste.Auth.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\bin\Debug\netcoreapp3.1\Teste.Domain.dll
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\bin\Debug\netcoreapp3.1\Teste.Domain.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\obj\Debug\netcoreapp3.1\Teste.Auth.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\obj\Debug\netcoreapp3.1\Teste.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\obj\Debug\netcoreapp3.1\Teste.Auth.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\obj\Debug\netcoreapp3.1\Teste.Auth.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\obj\Debug\netcoreapp3.1\Teste.Auth.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\obj\Debug\netcoreapp3.1\Teste.Auth.csproj.CopyComplete
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\obj\Debug\netcoreapp3.1\Teste.Auth.dll
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Auth\obj\Debug\netcoreapp3.1\Teste.Auth.pdb

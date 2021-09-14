@@ -8035,11 +8035,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.IoC\\Teste.IoC.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.IoC\\Teste.IoC.csproj",
       "projectName": "Teste.IoC",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.IoC\\Teste.IoC.csproj",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.IoC\\Teste.IoC.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.IoC\\obj\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8060,14 +8060,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.Application\\Teste.Application.csproj": {
-              "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.Application\\Teste.Application.csproj"
+            "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.Application\\Teste.Application.csproj": {
+              "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.Application\\Teste.Application.csproj"
             },
-            "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.Data\\Teste.Data.csproj": {
-              "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.Data\\Teste.Data.csproj"
+            "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.Data\\Teste.Data.csproj": {
+              "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.Data\\Teste.Data.csproj"
             },
-            "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.Domain\\Teste.Domain.csproj": {
-              "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.Domain\\Teste.Domain.csproj"
+            "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.Domain\\Teste.Domain.csproj": {
+              "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.Domain\\Teste.Domain.csproj"
             }
           }
         }

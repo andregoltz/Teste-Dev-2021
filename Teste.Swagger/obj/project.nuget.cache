@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QbdN1836xCq67o4OTJsNnPflCueZ6NFIQrwlo/DtgiKnV6BeAE1NcnSgIZnNhtuhMiE9zPfLtX/hjUGKrb+Nsg==",
+  "dgSpecHash": "LAa+FgiOzg9hPL7xO87SzRrtjkMY//8RPbLnZ6On1sxzQGy1icrTLKPnhU2U/WcASHfJP3RWWESznPFxQxANTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.Swagger\\Teste.Swagger.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.Swagger\\Teste.Swagger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rc1Tnq0TKTodg5WC/mZrxBi1Qo1uxUCpsD1F0Z0hqakONLYl4YPzWP5U8ELDjMM+wsd7p4vShc6wOtD7gr0uXA==",
+  "dgSpecHash": "87N2HvOLCZ64B+4m6L4PxZEw5SRb7HChH3e7wlWMzxIz8J2AcltSmoiuPk1y3aoTD7ES1b92R2Se4YTGQQnpug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.IoC\\Teste.IoC.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.IoC\\Teste.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

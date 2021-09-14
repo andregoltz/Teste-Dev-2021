@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LfJOWEwg8GzRgT9mrzBeTRgaW5bsdsiM0UyKr5x2092zALVPzNnQb+t3UGd6UCAgBQghRhCywnzPah0Br/6b6Q==",
+  "dgSpecHash": "hlQjKP5cvOAbJ8bX47knUFDraAO5CiFDWHWFR9gILgRNG7pQuQx9kPHlmmGlWnBq7ZrDwzIu6LrnmMhtnmOjgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.Domain\\Teste.Domain.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.Domain\\Teste.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

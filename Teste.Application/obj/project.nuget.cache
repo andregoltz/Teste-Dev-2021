@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6I7U77KIXtbVt+bL71OGjJuX2ffGvvNv76Exlp/JvdzIbIs2n2vd5uJxER6+xhKu8zioItZdYDtVx6SgIlx0tA==",
+  "dgSpecHash": "ZXWXg8TpOtT1QTPAXhbMJuPOBey/kHzeTAvVzmDbY5hequUJpBpRsD7tiWfrdQKuFn/HXyGZT+sQqU1AeAkasg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.Application\\Teste.Application.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.Application\\Teste.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

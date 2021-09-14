@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GFrG1mkieW4l5HNJfzYNg8D76ZjM5f4FatCNG9RYSbNXTj+ifhwSEwJ1HqLEar4zuuvET1Y2Q5PiIWQBju+p3g==",
+  "dgSpecHash": "1jcLqCtbqqL4/PPVnDU4rE21SqNZXwvATCyqbRSppJ8/NLxNbMH0DzjK+XudMAVpCEo4PaRffIXnaY4DVRx8EA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.Data\\Teste.Data.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.Data\\Teste.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

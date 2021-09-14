@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YDf3ndLaMJ3giSUys3XV1lr2PGeEjIuuhuZTTAEKt6VBQEWBuyhM7Cmu8V0wNau/4fRkbYmQS+Kh/Td05GHoUg==",
+  "dgSpecHash": "0g43ke8sp1NaetyGBQky9XYRvnzHFgLjvjbjjw6G7WK40Q6mYCb+G7IZ41rLP5uA+qd2wMS/cCBdvyhw1XIRJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\Teste Sisand\\Teste.Auth\\Teste.Auth.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\TesteSisand\\Teste-Dev-2021\\Teste.Auth\\Teste.Auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
