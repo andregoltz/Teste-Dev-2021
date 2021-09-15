@@ -64,7 +64,7 @@ export class ClientEditionComponent implements OnInit {
       }
     }, error => {
       //console.log(error);
-      this.toastr.error('Erro na autenticação do usuário!', 'Falha');
+      this.toastr.error('Já existe um usuário cadastrado com esse CPF!', 'Falha');
     })
   }
 
@@ -78,7 +78,7 @@ export class ClientEditionComponent implements OnInit {
       }
     }, error => {
       //console.log(error);
-      this.toastr.error('Erro na autenticação do usuário!', 'Falha');
+      this.toastr.error('Erro ao atualizar o cliente!', 'Falha');
     })
   }
 
