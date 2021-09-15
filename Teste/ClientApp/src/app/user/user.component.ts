@@ -34,6 +34,7 @@ export class UserComponent implements OnInit {
         this.toastr.success('Usuário Logado!','Sucesso');
         localStorage.setItem('user_logged', JSON.stringify(data));
         this.getUserData();
+        this.isAuthenticated = true;
         this.router.navigate(['home']);
       } else {
         this.toastr.error('Usuário Inválido!','Falha' );

@@ -5,6 +5,7 @@ import {ActivatedRoute, Params} from '@angular/router';
 import { DatePipe } from '@angular/common';
 import { TelephoneDataService } from '../_data-service/telephone.data-service';
 import { ToastrService } from 'ngx-toastr';
+import { UserComponent } from '../user/user.component';
 
 @Component({
   selector: 'app-client-edition',
@@ -20,7 +21,7 @@ export class ClientEditionComponent implements OnInit {
   telephone: any = {};
   ShowTable: boolean = false;
 
-  constructor(private toastr: ToastrService,public datepipe: DatePipe,public activatedRoute: ActivatedRoute,private clientDataService: ClientDataService, private telephoneDataService: TelephoneDataService,public router: Router) { }
+  constructor(private toastr: ToastrService,public datepipe: DatePipe,public activatedRoute: ActivatedRoute,private clientDataService: ClientDataService, private telephoneDataService: TelephoneDataService,public router: Router, private user: UserComponent) { }
 
   ngOnInit() {
     this.activatedRoute.queryParams.subscribe(params => {
@@ -64,7 +65,8 @@ export class ClientEditionComponent implements OnInit {
       }
     }, error => {
       //console.log(error);
-      this.toastr.error('Já existe um usuário cadastrado com esse CPF!', 'Falha');
+        this.toastr.error('Erro ao cadastrar usuário!', 'Falha');
+
     })
   }
 
