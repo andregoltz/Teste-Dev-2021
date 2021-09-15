@@ -51,7 +51,8 @@ export class UserComponent implements OnInit {
   post() {
     this.userDataService.post(this.user).subscribe(data => {
       if (data) {
-        this.toastr.success('Usuário Cadastrado!','Sucesso');
+        this.toastr.success('Usuário Cadastrado!', 'Sucesso');
+        this.toastr.info('Efetuar o Login!', 'Informação');
         this.user = {};
         this.newUser = false;
       } else {
