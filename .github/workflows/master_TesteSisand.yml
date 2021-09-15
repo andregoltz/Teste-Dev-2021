@@ -11,6 +11,7 @@ on:
 
 jobs:
   build:
+
     runs-on: windows-latest
 
     steps:
@@ -26,7 +27,7 @@ jobs:
       run: dotnet build --configuration Release
 
     - name: dotnet publish
-      run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
+      run: dotnet publish Teste/Teste.csproj -c Release -o ${{env.DOTNET_ROOT}}/myapp
 
     - name: Upload artifact for deployment job
       uses: actions/upload-artifact@v2
