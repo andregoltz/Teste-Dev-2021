@@ -20,7 +20,7 @@ export class ClientEditionComponent implements OnInit {
   telephone: any = {};
   ShowTable: boolean = false;
 
-  constructor(private toastr: ToastrService,public datepipe: DatePipe,private activatedRoute: ActivatedRoute,private clientDataService: ClientDataService, private telephoneDataService: TelephoneDataService,private router: Router) { }
+  constructor(private toastr: ToastrService,public datepipe: DatePipe,public activatedRoute: ActivatedRoute,private clientDataService: ClientDataService, private telephoneDataService: TelephoneDataService,public router: Router) { }
 
   ngOnInit() {
     this.activatedRoute.queryParams.subscribe(params => {

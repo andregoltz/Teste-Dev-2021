@@ -15,7 +15,7 @@ export class ClientsComponent implements OnInit {
   client: any = {};
   mostrarMenu: boolean = false;
 
-  constructor(private toastr: ToastrService,private clientDataService: ClientDataService, private router: Router) { }
+  constructor(private toastr: ToastrService,private clientDataService: ClientDataService, public router: Router) { }
 
   ngOnInit() {
     this.get();
