@@ -1,0 +1,10 @@
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Domain\bin\Release\netcoreapp3.1\Teste.Domain.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Domain\bin\Release\netcoreapp3.1\Teste.Domain.dll
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Domain\bin\Release\netcoreapp3.1\Teste.Domain.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Domain\obj\Release\netcoreapp3.1\Teste.Domain.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Domain\obj\Release\netcoreapp3.1\Teste.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Domain\obj\Release\netcoreapp3.1\Teste.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Domain\obj\Release\netcoreapp3.1\Teste.Domain.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Domain\obj\Release\netcoreapp3.1\Teste.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Domain\obj\Release\netcoreapp3.1\Teste.Domain.dll
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Domain\obj\Release\netcoreapp3.1\Teste.Domain.pdb

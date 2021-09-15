@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\bin\Release\netcoreapp3.1\Teste.Application.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\bin\Release\netcoreapp3.1\Teste.Application.dll
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\bin\Release\netcoreapp3.1\Teste.Application.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\bin\Release\netcoreapp3.1\Teste.Auth.dll
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\bin\Release\netcoreapp3.1\Teste.Domain.dll
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\bin\Release\netcoreapp3.1\Teste.Auth.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\bin\Release\netcoreapp3.1\Teste.Domain.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\obj\Release\netcoreapp3.1\Teste.Application.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\obj\Release\netcoreapp3.1\Teste.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\obj\Release\netcoreapp3.1\Teste.Application.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\obj\Release\netcoreapp3.1\Teste.Application.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\obj\Release\netcoreapp3.1\Teste.Application.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\obj\Release\netcoreapp3.1\Teste.Application.csproj.CopyComplete
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\obj\Release\netcoreapp3.1\Teste.Application.dll
+C:\Users\andre\OneDrive\Área de Trabalho\TesteSisand\Teste-Dev-2021\Teste.Application\obj\Release\netcoreapp3.1\Teste.Application.pdb
