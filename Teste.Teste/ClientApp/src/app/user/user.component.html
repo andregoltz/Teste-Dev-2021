@@ -1,0 +1,34 @@
+<div *ngIf="!newUser">
+  <h1>Login</h1>
+  <form>
+    <div class="form-group">
+      <label for="exampleInputEmail">Email:</label>
+      <input type="email" class="form-control col-md-4" id="exampleInputEmail" placeholder="Email" [(ngModel)]="userLogin.email" name="email">
+    </div>
+    <div class="form-group">
+      <label for="exampleInputPassword">Password:</label>
+      <input type="password" class="form-control col-md-4" id="exampleInputPassword" placeholder="Password" [(ngModel)]="userLogin.password" name="password">
+    </div>
+    <button type="submit" class="btn btn-primary" (click)="authenticate()">Login</button>
+    <button type="submit" class="btn btn-primary ml-3" (click)="Userresgister()">Novo Usuário</button>
+  </form>
+</div>
+<div class="container" *ngIf="newUser">
+  <h1>Cadastre-se</h1>
+  <form>
+    <div class="form-group">
+      <label for="exampleInputNome">Nome:</label>
+      <input type="text" class="form-control col-md-4" id="exampleInputNome" placeholder="Nome" [(ngModel)]="user.name" name="name">
+    </div>
+    <div class="form-group">
+      <label for="exampleInputEmail">Email:</label>
+      <input type="email" class="form-control col-md-4" id="exampleInputEmail" placeholder="Email" [(ngModel)]="user.email" name="email">
+    </div>
+    <div class="form-group">
+      <label for="exampleInputEmail">Password:</label>
+      <input type="password" class="form-control col-md-4" id="exampleInputPassword" placeholder="Password" [(ngModel)]="user.password" name="password">
+    </div>
+    <button type="submit" class="btn btn-primary" (click)="post()">Cadastrar</button>
+    <button type="submit" class="btn btn-primary ml-3" (click)="UserLogin()">Fazer Login</button>
+  </form>
+</div>

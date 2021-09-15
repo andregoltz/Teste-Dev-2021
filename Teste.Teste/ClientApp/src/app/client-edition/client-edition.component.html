@@ -1,0 +1,51 @@
+
+<button class="btn-primary btn" (click)="router.navigate(['clients']);">Voltar</button>
+<p></p>
+<div>
+    <form>
+        <div class="mb-3">
+          <label for="Nome" class="form-label">Nome:</label>
+          <input type="text" class="form-control col-md-4" id="Nome" placeholder="Nome" [(ngModel)]="client.name" name="name">
+        </div>
+        <div class="mb-3">
+          <label for="CPF" class="form-label">CPF:</label>
+          <input type="text" class="form-control col-md-4" id="CPF" placeholder="___.___.___-__" maxlength = 11 [(ngModel)]="client.cpf" name="cpf"> 
+        </div>
+        <div class="mb-3">
+            <label for="DataNascimento" class="form-label">Data de Nascimento:</label>
+            <input type="date" class="form-control col-md-4" id="DataNascimento" max="9999-12-31" [(ngModel)]="client.birthDate" name="birthDate"> 
+          </div>
+        <div *ngIf="switchButton">
+            <button type="submit" class="btn btn-primary" (click)="save()">Salvar</button>
+        </div>  
+        <div *ngIf="!switchButton">
+            <button type="submit" class="btn btn-primary" (click)="save()">Salvar Alterações</button>
+        </div> 
+      </form>
+</div>
+<br>
+<br>
+<div *ngIf="ShowTable">
+  <h3>Telefones para contato</h3>
+  <p></p>
+  <button class="btn-primary btn" (click)="passingParametersTelephonePage()">Novo Telefone</button>
+  <p></p>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">DDD</th>
+        <th scope="col">Telefone</th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let tel of telephones; let i = index">
+        <th scope="row">{{i + 1}}</th>
+        <td>{{tel.ddd}}</td>
+        <td>{{tel.telephoneNumber}}</td>
+        <th scope="row"><button class="btn-danger btn" (click)="delete(tel.id)">Deletar</button></th>
+      </tr>
+    </tbody>
+  </table>
+</div>

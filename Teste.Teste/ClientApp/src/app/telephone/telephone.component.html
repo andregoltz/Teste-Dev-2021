@@ -1,0 +1,16 @@
+<button class="btn-primary btn" (click)="pageRouter()">Voltar</button>
+<p></p>
+<form>
+    <h3>Cadastro de Telefone</h3>
+    <div class="mb-3">
+      <label for="ddd" class="form-label">DDD:</label>
+      <input type="text" class="form-control col-md-1" id="ddd" placeholder="(XXX)" maxlength="3" [(ngModel)]="telephone.ddd" name="ddd">
+    </div>
+    <div class="mb-3">
+      <label for="telephoneNumber" class="form-label">Telefone:</label>
+      <input type="text" class="form-control col-md-2" id="telephoneNumber"  placeholder="XXXXX-XXXX" maxlength = 9 [(ngModel)]="telephone.telephoneNumber" name="telephoneNumber"> 
+    </div>
+    <div>
+        <button class="btn-primary btn" (click)="post()">Cadastrar Telefone</button>
+    </div>
+</form>

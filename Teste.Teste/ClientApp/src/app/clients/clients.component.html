@@ -1,0 +1,27 @@
+<p>Clientes ({{clients?.length}})</p>
+
+<button class="btn-primary btn" (click)="router.navigate(['clients/client-edition']);">Novo Cliente</button>
+<p></p>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CPF</th>
+      <th scope="col">Data de Nascimento</th>
+      <th scope="col"></th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let client of clients; let i = index">
+      <th scope="row">{{i + 1}}</th>
+      <td>{{client.name}}</td>
+      <td>{{client.cpf}}</td>
+      <td>{{client.birthDate}}</td>
+      <th scope="row"><button class="btn-primary btn" (click)="router.navigate(['/clients/client-edition'], { queryParams: { id: client.id } })">Editar</button></th>
+      <th scope="row"><button class="btn-danger btn" (click)="delete(client)">Deletar</button></th>
+    </tr>
+  </tbody>
+</table>
