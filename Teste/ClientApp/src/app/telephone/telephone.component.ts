@@ -47,7 +47,7 @@ export class TelephoneComponent implements OnInit {
       }
     }, error => {
       //console.log(error);
-      this.toastr.error('Erro na autenticação do usuário!', 'Falha');
+      this.toastr.error('Já existe esse número de telefone cadastrado!', 'Falha');
     })
   }
 
