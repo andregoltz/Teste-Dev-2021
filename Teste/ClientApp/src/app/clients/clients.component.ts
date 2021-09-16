@@ -3,6 +3,7 @@ import { ClientDataService } from '../_data-service/client.data-service';
 import { Router } from '@angular/router';
 import { VERSION } from '@angular/core';
 import { ToastrService } from 'ngx-toastr';
+import { TelephoneDataService } from '../_data-service/telephone.data-service';
 
 @Component({
   selector: 'app-clients',
@@ -15,7 +16,7 @@ export class ClientsComponent implements OnInit {
   client: any = {};
   mostrarMenu: boolean = false;
 
-  constructor(private toastr: ToastrService,private clientDataService: ClientDataService, public router: Router) { }
+  constructor(private toastr: ToastrService,private clientDataService: ClientDataService, public router: Router, private telefone: TelephoneDataService ) { }
 
   ngOnInit() {
     this.get();
@@ -30,7 +31,8 @@ export class ClientsComponent implements OnInit {
     })
   }
 
-  delete(client){
+  delete(client) {
+    this.telefone.delete(client.id);
     this.clientDataService.delete(client.id).subscribe(data =>{
       if(data){
         this.toastr.success('Cliente Deletado!', 'Sucesso');
