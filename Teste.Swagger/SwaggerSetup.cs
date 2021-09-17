@@ -14,7 +14,7 @@ namespace Teste.Swagger
             {
                 opt.SwaggerDoc("v1", new OpenApiInfo 
                 { 
-                    Title = "Teste Sisand .Net Core",
+                    Title = "Teste .Net Core",
                     Version = "v1",
                     Description = "Documentação realizada para o teste de Dev. 2021",
                     Contact = new OpenApiContact
